@@ -2,7 +2,6 @@ wormhole
 ========
 
 RPC base on zmq.
-tomdb
 
 Installation
 =====
@@ -10,8 +9,9 @@ Installation
 requires: **libzmq,pyzmq**  
 依赖模块libzmq,pyzmq
 ``$ pip install pyzmq``
+
 项目安装:
-``$ python setup install
+``$ python setup install``
 
 Getting Started
 =====
