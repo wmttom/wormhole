@@ -1,7 +1,7 @@
 #coding:utf-8
 from wormhole.client import Client
 
-client = Client("127.0.0.1", 9527)
+client = Client("127.0.0.1", 9528)
 
 time_zone = 0
 time_now,err1 = client.get_time(time_zone)

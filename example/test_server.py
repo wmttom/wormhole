@@ -1,7 +1,7 @@
 #coding:utf-8
 from wormhole.server import Server
 
-server = Server(9527)
+server = Server(9528)
 
 def get_time(time_zone):
     import time
